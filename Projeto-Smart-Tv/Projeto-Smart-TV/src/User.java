@@ -20,7 +20,7 @@ public class User {
     while (smartTv.ligada) {
 
       System.out.println("--------------------------");
-      System.out.println("O que deseja realizar?");
+      System.out.println("O que deseja realizar? ");
       System.out.println("1 - Aumentar volume");
       System.out.println("2 - Diminuir volume");
       System.out.println("3 - Subir canal");
